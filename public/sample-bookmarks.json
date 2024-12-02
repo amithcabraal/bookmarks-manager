@@ -1,0 +1,36 @@
+{
+  "bookmarks": [
+    {
+      "Environment": "Development",
+      "Accessibility": "Public",
+      "Service": "Documentation",
+      "Public URL": "docs.example.com",
+      "icon": "book",
+      "Notes": "Project documentation"
+    },
+    {
+      "Environment": "Development",
+      "Accessibility": "Private",
+      "Service": "API Gateway",
+      "Public URL": "api.dev.example.com",
+      "icon": "server",
+      "Notes": "Development API endpoint"
+    },
+    {
+      "Environment": "Production",
+      "Accessibility": "Public",
+      "Service": "Main Website",
+      "Public URL": "www.example.com",
+      "icon": "globe",
+      "Notes": "Production website"
+    },
+    {
+      "Environment": "Staging",
+      "Accessibility": "Internal",
+      "Service": "Monitoring",
+      "Public URL": "monitor.staging.example.com",
+      "icon": "chart",
+      "Notes": "System monitoring dashboard"
+    }
+  ]
+}
